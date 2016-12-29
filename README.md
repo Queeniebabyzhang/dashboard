@@ -72,11 +72,3 @@ grunt build
 ````
 
 If there are error(s) happening with the build process, please proceed by adding '--force' option to the build command
-
-### Testing the app
-
-````
-grunt test
-````
-
-This will run the unit tests in karma test runner with all the settings provided in the 'karma.conf.js' file
